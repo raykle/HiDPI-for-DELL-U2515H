@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductName</key>
+	<string>DELL U2515H</string>
+	<key>DisplayProductID</key>
+	<integer>53358</integer>
+	<key>DisplayVendorID</key>
+	<integer>4268</integer>
+	<key>scale-resolutions</key>
+	<array>
+		<data>
+		AAAFAAAAAtAAAAABACAAAA==
+		</data>
+		<data>
+		AAAKAAAABaAAAAABACAAAA==
+		</data>
+		<data>
+		AAAFAAAAAs8AAAABACAAAA==
+		</data>
+		<data>
+		AAAKAAAABZ4AAAABACAAAA==
+		</data>
+		<data>
+		AAAHgAAABDgAAAABACAAAA==
+		</data>
+		<data>
+		AAAPAAAACHAAAAABACAAAA==
+		</data>
+	</array>
+</dict>
+</plist>
